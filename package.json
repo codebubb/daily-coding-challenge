@@ -1,0 +1,31 @@
+{
+  "name": "daily-coding-challenge",
+  "version": "1.0.0",
+  "description": "The code behind the Junior Developer Central daily coding challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebubb/daily-coding-challenge.git"
+  },
+  "author": "James Bubb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codebubb/daily-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/codebubb/daily-coding-challenge#readme",
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-browserify": "^5.1.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-html-reporter": "^0.2.7",
+    "karma-jasmine": "^1.1.0",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "karma-jasmine-html-reporter-livereload": "^1.0.0",
+    "watchify": "^3.9.0"
+  }
+}
